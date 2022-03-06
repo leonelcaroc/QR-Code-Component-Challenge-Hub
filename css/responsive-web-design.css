@@ -1,0 +1,6 @@
+@media (min-width: 375px) {
+  
+  .qr-code-container {
+    max-width: 95%;
+  }
+}
