@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.jpeg)
 
 
 ### Links
@@ -44,7 +44,7 @@ I want to focus soon in Flexbox and Grid Layout and also Animations in CSS.
 
 ## Author
 
-- Website - ()
+- Website - (https://github.com/leonelcaroc)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/leonelcaroc)
 - Twitter - (https://www.twitter.com/leocaroc)
 
