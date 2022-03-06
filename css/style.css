@@ -8,12 +8,12 @@ body {
 }
 
 p {
+  font-family: 'Outfit', sans-serif;
   margin: 1em 12px;
 }
 
 .description-one {
   font-size: 20px;
-  font-family: 'Outfit', sans-serif;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
  
@@ -21,7 +21,6 @@ p {
 
 .description-two {
   font-size: 15px;
-  font-family: 'Outfit', sans-serif;
   color: hsl(220, 15%, 55%);
   line-height: 1em;
 }
